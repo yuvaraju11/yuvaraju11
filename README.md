@@ -38,11 +38,11 @@
 
 ## 🎯 Current Goals
 
-- 🏢 **Land a Google internship before graduation** — not as a dream anymore, as an actual plan with milestones and deadlines
-- 🧠 **Master DSA cold** — solving problems fast and clean, because that's the language top companies speak in interviews
-- 🛠️ **Ship 3 projects that go beyond college submissions** — real deployments, real users, real feedback
-- 📈 **Grow from a student who builds to an engineer who ships** — understanding systems deeply, not just making them work
-- 🌐 **Build a strong GitHub presence** — every repo a proof of work, every commit a step toward becoming undeniable
+- 🏢 **Get placed at Google** — every skill I build, every problem I solve, every project I ship is a step toward that one seat
+- 💻 **Strengthen my coding foundations daily** — DSA, problem solving, and clean code aren't just interview prep, they're the base of everything I want to build
+- 🧠 **Become a professional software engineer worth hiring** — not just someone with a degree, but someone who thinks, builds, and ships like a real engineer
+- 🔨 **Turn college projects into portfolio-worthy work** — ZEROTOX, NeuroTrack, and Heart Monitor deserve to be more than submissions; they deserve to be real products
+- 📚 **Never stop learning** — new frameworks, new domains, new challenges; the day I stop picking up something new is the day I fall behind
 
 ---
 
