@@ -32,7 +32,7 @@
 - 📚 **Actively learning** — ML model optimization, embedded C, and how to bridge the gap between hardware and intelligent software
 - 🏸 **When I'm not coding** — you'll find me on the badminton court or deep in a playlist, recharging for the next sprint
 - 🤝 **Open to** — internships and collaboration on impactful AI/IoT projects with teams who care about what they build
-- 📍 **Based in** — Chennai, Tamil Nadu, India | B.E. AI & Data Science (Class of 2028)
+- 📍 **Based in** — Chennai, Tamil Nadu, India | B.TECH. AI & Data Science |
 
 ---
 
